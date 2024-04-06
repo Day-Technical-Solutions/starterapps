@@ -1,3 +1,12 @@
+
+![Currency Converter dark mode](./src/assets/cc_dark.png)
+![Currency Converter light mode](./src/assets/cc_light.png)
+![Todo List dark mode](./src/assets/todo_dark.png)
+![Todo List light mode](./src/assets/todo_light.png)
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
