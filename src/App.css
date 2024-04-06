@@ -1,0 +1,15 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  padding: 0;
+  margin: 0;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  @apply min-h-screen w-screen bg-slate-300 dark:bg-black
+}
